@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m3rtt
 - 👀 I’m a network engineer who is tasked with learning to support some internal software systems
-- 🌱 I’m currently going through the orion project. 
+- 🌱 I’m currently going through the odin project. 
 
 
 <!---
